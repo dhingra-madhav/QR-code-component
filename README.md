@@ -4,7 +4,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Screenshots](#screenshots)
 - [Link](#link)
 - [Built with](#built-with)
 - [Platform used](#platform-used)
@@ -12,14 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgment](#acknowledgment)
 
-
-## Screenshots
-
-###  Desktop
-![](./images/desktop.png)
-
-### Mobile
-![](./images/mobile.png)
 
 ## Link
 Live Site URL: [Click here](https://dhingra-madhav.github.io/QR-code-component/)
