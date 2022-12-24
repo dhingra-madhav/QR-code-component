@@ -27,7 +27,7 @@ img{
     border-radius: 0.7em;
 }
 .text-box{
-    margin: 1em 0.17em 1.2em;
+    margin: 1em 0.18em 1.2em;
     padding-left: 0.8em;
     padding-right: 0.8em;
 }
@@ -41,14 +41,4 @@ p{
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 0.9em;
-}
-
-
-footer{ 
-    margin-top: 5em;
-    font-size: 11px;
-    text-align: center;
-}
-footer a{
-    color: hsl(228, 45%, 44%);
 }
